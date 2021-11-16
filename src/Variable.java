@@ -1,5 +1,5 @@
 public class Variable {
-        public static void main(String[] args){
+        public static void main(String[] args) {
                 byte core = 8;
                 short virtualCore = 16;
                 int mhz = 3593;
@@ -16,5 +16,6 @@ public class Variable {
                 System.out.println(availableMemory);
                 System.out.println(os);
                 System.out.println(isMyPC);
+                System.out.println("Тестовый меседж");
         }
 }

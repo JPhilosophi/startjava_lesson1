@@ -1,5 +1,5 @@
 public class ConditionalStatement{
-    public static void main(String[] args){
+    public static void main(String[] args) {
         int age = 21;
         double heigt = 1.6;
         char firstLettersName = 'M';
@@ -28,5 +28,7 @@ public class ConditionalStatement{
         } else {
             System.out.println("note mutch");
         }
+
+        System.out.println("Test message");
     }
 }
